@@ -1,0 +1,79 @@
+{
+    "5ff8bfe2942f2": {
+        "name": "Horv\u00e1th Gy\u0151z\u0151",
+        "pwd": "$2y$10$NS.ZCw\/ibFPmlc\/gLFwyXuvHkHI1SZpi2akw8\/lbrQmNe4LE2qFSG",
+        "taj": "123456789",
+        "email": "admin@nemkovid.hu",
+        "roles": [
+            "admin"
+        ],
+        "vaccinationID": 0,
+        "id": "5ff8bfe2942f2"
+    },
+    "5ff9901f2bb20": {
+        "name": "Abdurasitov Alekszandr",
+        "pwd": "$2y$10$JIVkuqLgiT1P4.AljvJ\/SOJt5YLsgTDY3IAVY76RkMcm0ORJe.R7u",
+        "taj": "123456789",
+        "email": "alexhun93@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "vaccinationID": "5ff98f97bccd2",
+        "id": "5ff9901f2bb20"
+    },
+    "5ff9903de5e20": {
+        "name": "Teszt Elek",
+        "pwd": "$2y$10$MWaaj8gtNNKOJPB\/EDyvg.a6Gzx4jHR566y1RU2W\/oh8Qr83qLE46",
+        "taj": "123456789",
+        "email": "teszt@elek.hu",
+        "roles": [
+            "user"
+        ],
+        "vaccinationID": "5ff98fbd62151",
+        "id": "5ff9903de5e20"
+    },
+    "5ff9905adb1d3": {
+        "name": "Nagy Bamba",
+        "pwd": "$2y$10$m8oW9ls6ZHCiO85ZPkKa5u5p\/AWO58PCXEk69DVjEULTyRXLqyOEC",
+        "taj": "987654321",
+        "email": "nagy@bamba.hu",
+        "roles": [
+            "user"
+        ],
+        "vaccinationID": "5ff98f97bccd2",
+        "id": "5ff9905adb1d3"
+    },
+    "5ff99074195ec": {
+        "name": "Kis Bamba",
+        "pwd": "$2y$10$xUOrg2bUXy6HubGAMbw6o.UmvaaEfimx6I1iNrpegHpvlXz7OtfYS",
+        "taj": "654789321",
+        "email": "kis@bamba.hu",
+        "roles": [
+            "user"
+        ],
+        "vaccinationID": "5ff98f97bccd2",
+        "id": "5ff99074195ec"
+    },
+    "5ffc3dd428d9d": {
+        "name": "Valami valami",
+        "pwd": "$2y$10$c7Z44UwWu3\/zUKB9C5C78eccbpGxIUKgGh0VIvNxPKsM8PC2f.vTq",
+        "taj": "123456789",
+        "email": "valami@valami.com",
+        "roles": [
+            "user"
+        ],
+        "vaccinationID": "5ff98fc9aa257",
+        "id": "5ffc3dd428d9d"
+    },
+    "5ffc40e127532": {
+        "name": "Teszt Elo",
+        "pwd": "$2y$10$wipTSPWgM6CDXjmGH.B4W.XmtD8zY0iQ.I8p\/aDbpMkyawgoLGri2",
+        "taj": "654987321",
+        "email": "teszt@elo.hu",
+        "roles": [
+            "user"
+        ],
+        "vaccinationID": "5ff98fc9aa257",
+        "id": "5ffc40e127532"
+    }
+}

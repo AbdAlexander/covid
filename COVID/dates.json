@@ -1,0 +1,60 @@
+{
+    "5ff98f97bccd2": {
+        "date": "2021-01-10",
+        "time": "12:00",
+        "capicity": "10",
+        "applicants": [
+            "5ff9901f2bb20",
+            "5ff9905adb1d3",
+            "5ff99074195ec"
+        ],
+        "id": "5ff98f97bccd2"
+    },
+    "5ff98facd76c9": {
+        "date": "2021-01-10",
+        "time": "17:00",
+        "capicity": "10",
+        "applicants": [],
+        "id": "5ff98facd76c9"
+    },
+    "5ff98fbd62151": {
+        "date": "2021-01-11",
+        "time": "11:00",
+        "capicity": "1",
+        "applicants": [
+            "5ff9903de5e20"
+        ],
+        "id": "5ff98fbd62151"
+    },
+    "5ff98fc9aa257": {
+        "date": "2021-01-12",
+        "time": "12:00",
+        "capicity": "2",
+        "applicants": [
+            "5ffc3dd428d9d",
+            "5ffc40e127532"
+        ],
+        "id": "5ff98fc9aa257"
+    },
+    "5ff98fe0d2e92": {
+        "date": "2021-01-30",
+        "time": "18:00",
+        "capicity": "10",
+        "applicants": [],
+        "id": "5ff98fe0d2e92"
+    },
+    "5ff9900e796ed": {
+        "date": "2021-02-02",
+        "time": "14:00",
+        "capicity": "5",
+        "applicants": [],
+        "id": "5ff9900e796ed"
+    },
+    "5ffc3ea45f964": {
+        "date": "2021-12-01",
+        "time": "18:00",
+        "capicity": "5",
+        "applicants": [],
+        "id": "5ffc3ea45f964"
+    }
+}
